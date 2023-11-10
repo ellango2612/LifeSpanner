@@ -109,15 +109,17 @@ This is an all-in-one app designed to help users organize and improve their life
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
 ### [BONUS] Digital Wireframes & Mockups
 
 <img width="282" alt="Screenshot 2023-11-09 at 8 51 27 PM" src="https://github.com/ellango2612/LifeSpanner/assets/89810675/f652d367-f528-49ae-adfb-2b32d548066e">
+<img width="275" alt="Screenshot 2023-11-09 at 8 54 00 PM" src="https://github.com/ellango2612/LifeSpanner/assets/89810675/146e2a42-86c9-44a3-ba1b-b6046720d112">
+<img width="299" alt="Screenshot 2023-11-09 at 8 54 14 PM" src="https://github.com/ellango2612/LifeSpanner/assets/89810675/703813fa-53c0-42d5-9c0e-9772e8d2dc93">
+<img width="284" alt="Screenshot 2023-11-09 at 8 54 37 PM" src="https://github.com/ellango2612/LifeSpanner/assets/89810675/753ed9fd-1e69-4401-9b70-129c8a4104dd">
+<img width="287" alt="Screenshot 2023-11-09 at 8 55 07 PM" src="https://github.com/ellango2612/LifeSpanner/assets/89810675/4869c5d8-a92c-4b15-8d4f-43b5d04f64d8">
 
 
 ### [BONUS] Interactive Prototype
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/554b0aedaf514b5c98788229a840d282?sid=3a1ea5b6-6ab5-45ff-8574-e7d8d0fbbaef" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Schema 
 
