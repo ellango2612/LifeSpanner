@@ -122,7 +122,6 @@ This is an all-in-one app designed to help users organize and improve their life
 
 <div>
     <a href="https://www.loom.com/share/554b0aedaf514b5c98788229a840d282">
-    </a>
     <a href="https://www.loom.com/share/554b0aedaf514b5c98788229a840d282">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/554b0aedaf514b5c98788229a840d282-with-play.gif">
     </a>
