@@ -113,6 +113,7 @@ This is an all-in-one app designed to help users organize and improve their life
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOYHDeADez9vM5N0GUV2xuH%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DslH3EdTlPM2RQhKh-1" allowfullscreen></iframe>
 
 ### [BONUS] Interactive Prototype
 
