@@ -119,7 +119,14 @@ This is an all-in-one app designed to help users organize and improve their life
 
 
 ### [BONUS] Interactive Prototype
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/554b0aedaf514b5c98788229a840d282?sid=3a1ea5b6-6ab5-45ff-8574-e7d8d0fbbaef" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div>
+    <a href="https://www.loom.com/share/554b0aedaf514b5c98788229a840d282">
+    </a>
+    <a href="https://www.loom.com/share/554b0aedaf514b5c98788229a840d282">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/554b0aedaf514b5c98788229a840d282-with-play.gif">
+    </a>
+  </div>
 
 ## Schema 
 
