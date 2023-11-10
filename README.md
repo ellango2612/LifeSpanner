@@ -92,7 +92,7 @@ This is an all-in-one app designed to help users organize and improve their life
 
 * Home Feed: Dashboard / Home Screen
 * Search User: Search Screen
-* Post a Photo: Creation Screen
+* Post: Creation Screen
 
 **Flow Navigation** (Screen to Screen)
 
