@@ -135,6 +135,14 @@ This is an all-in-one app designed to help users organize and improve their life
 
 [Add table of models]
 
+## Build progress
+
+    Sprint 1: Set up the project and come up with ideas. (by the end of the week of November 6th)
+    Sprint 2: Design and implement the Log In and Register Screens, improve the UI&UX (by the end of the week of November 13th)
+    Sprint 3: Build the User Profile and Home Screen. (by the end of the week of November 20th)
+    Sprint 4: Implement Creation (Events Detail) Screen, Local Data Persistence, and Search Screen. (by the end of the week of November 27th)
+
+
 ### Networking
 
 - [Add list of network requests by screen ]
