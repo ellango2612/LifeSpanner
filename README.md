@@ -129,7 +129,6 @@ This is an all-in-one app designed to help users organize and improve their life
 
 ## Schema 
 
-[This section will be completed in Unit 9]
 
 ### Models
 
@@ -137,10 +136,16 @@ This is an all-in-one app designed to help users organize and improve their life
 
 ## Build progress
 
-    Sprint 1: Set up the project and come up with ideas. (by the end of the week of November 6th)
-    Sprint 2: Design and implement the Log In and Register Screens, improve the UI&UX (by the end of the week of November 13th)
-    Sprint 3: Build the User Profile and Home Screen. (by the end of the week of November 20th)
-    Sprint 4: Implement Creation (Events Detail) Screen, Local Data Persistence, and Search Screen. (by the end of the week of November 27th)
+### Sprint 1: Set up the project and come up with ideas. (by the end of the week of November 6th)
+
+-> Done
+
+### Sprint 2: Design and implement the Log In Screen, set up some logic (by the end of the week of November 13th)
+
+
+### Sprint 3: Add Register Screen, improve the UI&UX. Build the User Profile and Home Screen. (by the end of the week of November 20th)
+
+### Sprint 4: Implement Creation (Events Detail) Screen, Local Data Persistence, and Search Screen. (by the end of the week of November 27th)
 
 
 ### Networking
