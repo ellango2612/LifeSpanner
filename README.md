@@ -148,9 +148,11 @@ This is an all-in-one app designed to help users organize and improve their life
     </a>
   </div>
 
-### Sprint 3: Add Register Screen, improve the UI&UX. Build the User Profile and Home Screen. (by the end of the week of November 20th)
+### Sprint 3: Add Register Screen (by the end of the week of November 20th)
+![image](https://github.com/ellango2612/LifeSpanner/assets/89810675/83c299aa-1aa0-4bb7-8719-f2637277ea66)
 
-### Sprint 4: Implement Creation (Events Detail) Screen, Local Data Persistence, and Search Screen. (by the end of the week of November 27th)
+
+### Sprint 4: Improve the UI&UX. Build the User Profile and Home Screen. Implement Creation (Events Detail) Screen, Local Data Persistence, and Search Screen. (by the end of the week of November 27th)
 
 
 ### Networking
