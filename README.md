@@ -151,7 +151,6 @@ This is an all-in-one app designed to help users organize and improve their life
 ### Sprint 3: Add Register Screen (by the end of the week of November 20th)
 
     <a href="https://www.loom.com/share/3b68636630964fd3b34a5344bb305c7f">
-    </a>
     <a href="https://www.loom.com/share/3b68636630964fd3b34a5344bb305c7f">
       <img style="max-width:300px;" src="null">
     </a>
