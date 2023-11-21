@@ -149,13 +149,13 @@ This is an all-in-one app designed to help users organize and improve their life
   </div>
 
 ### Sprint 3: Add Register Screen (by the end of the week of November 20th)
-
-    <a href="https://www.loom.com/share/3b68636630964fd3b34a5344bb305c7f">
-    <a href="https://www.loom.com/share/3b68636630964fd3b34a5344bb305c7f">
-      <img style="max-width:300px;" src="null">
+<div>
+    <a href="https://www.loom.com/share/ea753a4708454824b9c3da9fca54045b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ea753a4708454824b9c3da9fca54045b-with-play.gif">
     </a>
   </div>
 
+  
 ### Sprint 4: Improve the UI&UX. Build the User Profile and Home Screen. Implement Creation (Events Detail) Screen, Local Data Persistence, and Search Screen. (by the end of the week of November 27th)
 
 
